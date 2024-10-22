@@ -34,3 +34,4 @@ class Point:
                 math.isclose(self.x, other.x) and
                 math.isclose(self.y, other.y))
 
+point1=Point(7.3,3.2)
